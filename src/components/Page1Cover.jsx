@@ -30,7 +30,7 @@ export default function Page1Cover({ editMode }) {
           <div className="p1-logo">
             {/* D3 Yacht Charter logo (logo1) replaces anchor emoji */}
             <img
-              src="/logo1_d3.png"
+              src="/logo1_d3.PNG"
               alt="D3 Yacht Charter"
               style={{
                 height: '128px',
