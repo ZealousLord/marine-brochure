@@ -27,7 +27,7 @@ export default function BrochureFooter({ variant = 'light' }) {
       }}
     >
       <img
-        src="/logo1_d3.png"
+        src="/logo1_d3.PNG"
         alt="D3 Yacht Charter"
         style={{
           height: '90px',
@@ -67,7 +67,7 @@ export default function BrochureFooter({ variant = 'light' }) {
         }}
       />
       <img
-        src="/logo3_white.png"
+        src="/logo3_white.PNG"
         alt="Partner Logo"
         style={{
           height: '90px',
