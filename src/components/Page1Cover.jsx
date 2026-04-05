@@ -33,7 +33,7 @@ export default function Page1Cover({ editMode }) {
               src="/logo1_d3.PNG"
               alt="D3 Yacht Charter"
               style={{
-                height: '128px',
+                height: '200px',
                 width: 'auto',
                 objectFit: 'contain',
                 filter: 'brightness(1.6)',
